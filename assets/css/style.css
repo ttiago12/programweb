@@ -376,8 +376,8 @@ textarea:focus {
 }
 
 .banner-area {
-    padding: 400px 0 350px;
-    background-color: #b0b0b0;
+    padding: 50px 0 50px;
+    background-color: #8f0606;
     background-image: url("../images/banner-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -441,7 +441,7 @@ textarea:focus {
 }
 
 .welcome-area .welcome-img {
-    padding-left: 10%
+    padding-left:
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -457,12 +457,12 @@ textarea:focus {
 }
 
 .welcome-area .welcome-text {
-    padding-right: 50%
+    padding-right: 0%
 }
 
 @media (min-width: 1200px) and (max-width: 1440px) {
     .welcome-area .welcome-text {
-        padding-right: 30%
+        padding-right: 10%
     }
 }
 
@@ -587,7 +587,7 @@ textarea:focus {
 .deshes-area h1 {
     color: #131230;
     font-style: inherit;
-    position: relative
+    position: center
 }
 
 .deshes-area h1:after {
@@ -3178,7 +3178,7 @@ h6 {
 }
 
 .section-padding2 {
-    padding-top: 130px
+    padding-top: 30px
 }
 
 .section-padding3 {
